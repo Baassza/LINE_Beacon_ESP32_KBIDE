@@ -8,7 +8,7 @@
   "author": "Worraphon Thungsiri",
   "email": "",
   "url": "https://github.com/Baassza/LINE_Beacon_ESP32_KBIDE.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "board" : "",
   "platform": ["arduino-esp32"],
   "image" : "/static/icon.png",
