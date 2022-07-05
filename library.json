@@ -10,5 +10,5 @@
   "url": "https://github.com/Baassza/LINE_Beacon_ESP32_KBIDE/",
   "version": "1.0.1",
   "platform": ["arduino-esp32"],
-  "image" : "/static/icon.png",
+  "image" : "/static/icon.png"
 }
