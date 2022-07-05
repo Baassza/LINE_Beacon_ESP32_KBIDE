@@ -1,16 +1,14 @@
 {
-  "name" : "LINE beacon",
-  "title": "LINE beacon",
+  "name" : "LINE_Beacon_ESP32_KBIDE",
+  "title": "LINE_Beacon_ESP32_KBIDE",
   "keywords": "LINE,LINE beacon",
   "description": "LINE beacon สำหรับบอร์ด ESP32 ",
   "category":"Device Control",
-  "git": "https://github.com/Baassza/LINE_Beacon_ESP32_KBIDE.git",
+  "git": "https://github.com/Baassza/LINE_Beacon_ESP32_KBIDE/",
   "author": "Worraphon Thungsiri",
-  "email": "",
-  "url": "https://github.com/Baassza/LINE_Beacon_ESP32_KBIDE.git",
+  "email": "worraphon.thungsiri@gmail.com",
+  "url": "https://github.com/Baassza/LINE_Beacon_ESP32_KBIDE/",
   "version": "1.0.1",
-  "board" : "",
   "platform": ["arduino-esp32"],
   "image" : "/static/icon.png",
-  "homepage": "http://www.kbide.org"
 }
